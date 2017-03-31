@@ -3,7 +3,7 @@
 在 vue 模板中
 
 ```
-<a href="http://vis-admin.vip.vip.com/newHelpCenter/index.html" class="header-btn">
+<a href="http://..." class="header-btn">
     {{ $t("comm.help-center") }}
 </a>
 ```
