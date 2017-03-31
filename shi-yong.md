@@ -20,3 +20,10 @@ this.$confirm(this.$t('portal.move-up'), (yes) => {
 
 在 js 文件中调用语言包，首先要引用 vue，然后调用 vue.t\(\) 加载语言包内容
 
+```
+import Vue from 'vue'
+Vue.t('comm.data-loading-failed')
+```
+
+
+
