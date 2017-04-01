@@ -4,11 +4,9 @@
 
 该内容介绍了 vis-portal 国际化多语言应用方式。
 
-
-
 [portal 加载 vue-i18n](/chapter1.md)
 
-[非 portal 项目加载vue-i18n](#)
+[[非 portal 项目加载vue-i18n](#)](/fei-portal-xiang-mu-jia-zai-yu-yan-bao.md)
 
 [使用](/shi-yong.md)
 
